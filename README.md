@@ -20,8 +20,8 @@ Every 500 timesteps I updated my target network </p>
 
 <h1>CartPole AI</h1>
 <p> The cartpole starts off with random actions at first since the greedy policy is very high, therefore resulting in a lot of resets</p>
-
-![eResult](https://user-images.githubusercontent.com/41172710/181115048-54dfdaba-bb65-4af1-be6a-781888068a07.gif)<br>
+<center>
+![eResult](https://user-images.githubusercontent.com/41172710/181115048-54dfdaba-bb65-4af1-be6a-781888068a07.gif)<br></center>
 
 <p>However, after about 50 episodes the AI improves significantly, allowing it to balance the pole for longer</p>
 

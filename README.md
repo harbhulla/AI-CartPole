@@ -1,4 +1,4 @@
-# Classic-CartPole
+# CartPole
 
 <h2>Research Papers for DQN and DDQN</h2>
 <h3> DQN - https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf</h3>
